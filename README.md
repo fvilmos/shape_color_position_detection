@@ -18,7 +18,7 @@ Steps:
 </p>
 
 
-3. Train and test the DNN. After ~400 steps the network reaches about 93% accuracy on position prediction, 85% for shape, and 88% on colors.
+3. Train and test the DNN. After ~400 steps the network reaches about 93% accuracy on position prediction, 85% for shape, and 88% on colors. Take a look at the 'data' folder for better training results. 
 
 <p align="center"> 
   <img src="./info/test.png" alt="" width="1024"></a>
